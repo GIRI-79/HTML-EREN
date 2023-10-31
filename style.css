@@ -1,0 +1,27 @@
+.featured{
+    background-color: greenyellow;
+    margin-left: 167px;
+    margin-bottom: 78px;
+}
+p{
+    margin-left: 45px;
+    margin-bottom: 35px;
+    font-family: sans-serif;
+}
+h1{
+    margin-left: 167px;
+}
+.starting{
+    font-family: 'Segoe UI';
+    margin-left: 32px;
+}
+.middlest{
+    font-family: 'Segoe UI';
+    margin-left: 31px;
+}
+.eren{
+    font-family: Cambria;
+}
+.eren-image{
+    margin-left: 88px;
+}
